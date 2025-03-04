@@ -1,4 +1,4 @@
-module github.com/e421083458/golang_common
+module github.com/Xialianoka/golang_common
 
 go 1.16
 
